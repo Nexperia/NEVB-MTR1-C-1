@@ -1,5 +1,5 @@
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nexperia/NEVB-MTR1-C-1/refs/heads/main/library/nexperia_logo_white.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nexperia/NEVB-MTR1-C-1/refs/heads/main/images/nexperia_logo_white.svg">
   <img alt="Nexperia Logo" src="https://www.nexperia.com/.resources/nexperia-theme/images/logo.png">
 </picture>
 
@@ -20,25 +20,9 @@ The NEVB-MTR1-KIT1 evaluation kit includes:
 - **3-Phase BLDC Motor with Hall Sensors**: The motor that is directly controlled by the system.
 - Additional screws, plugs, and tools necessary for setup and operation.
 
-## Schematics
+## Board View
 
-The controller board design is organized into hierarchical schematic sheets:
-
-![Main Schematic](drawings/nevb_mtr1_c_1.svg)
-
-![DC-DC Converter](drawings/nevb_mtr1_c_1-DC-DC%20converter.svg)
-
-![Microcontroller](drawings/nevb_mtr1_c_1-Microcontroller.svg)
-
-![User Inputs](drawings/nevb_mtr1_c_1-User%20inputs.svg)
-
-![Gate Drivers](drawings/nevb_mtr1_c_1-Gate%20Drivers.svg)
-
-![Back EMF Sense](drawings/nevb_mtr1_c_1-Back%20EMF%20sense.svg)
-
-![Fault Reporting](drawings/nevb_mtr1_c_1-Fault%20Reporting.svg)
-
-![Hardware and Notes](drawings/nevb_mtr1_c_1-Hardware%20and%20notes.svg)
+![Board Render](images/rendered_view.png)
 
 ## Bill of Materials
 
@@ -77,3 +61,23 @@ Contributions to improve the hardware design are welcome. To contribute:
 ## License
 
 This project is licensed under the MIT/X Consortium License, a permissive free software license. For more details on the MIT/X Consortium License, please refer to the LICENSE file included in this repository.
+
+## Schematics
+
+The controller board design is organized into hierarchical schematic sheets:
+
+![Main Schematic](drawings/nevb_mtr1_c_1.svg)
+
+![DC-DC Converter](drawings/nevb_mtr1_c_1-DC-DC%20converter.svg)
+
+![Microcontroller](drawings/nevb_mtr1_c_1-Microcontroller.svg)
+
+![User Inputs](drawings/nevb_mtr1_c_1-User%20inputs.svg)
+
+![Gate Drivers](drawings/nevb_mtr1_c_1-Gate%20Drivers.svg)
+
+![Back EMF Sense](drawings/nevb_mtr1_c_1-Back%20EMF%20sense.svg)
+
+![Fault Reporting](drawings/nevb_mtr1_c_1-Fault%20Reporting.svg)
+
+![Hardware and Notes](drawings/nevb_mtr1_c_1-Hardware%20and%20notes.svg)
