@@ -42,7 +42,7 @@ The controller board design is organized into hierarchical schematic sheets:
 
 ## Bill of Materials
 
-An interactive Bill of Materials (iBOM) is available in the `bom/` directory. Open `bom/ibom.html` in a web browser to view component placement, reference designators, and sourcing information. The BOM is also available in CSV format at `bom/nevb_mtr1_c_1.csv`.
+An interactive Bill of Materials (iBOM) is available online at [https://nexperia.github.io/NEVB-MTR1-C-1/ibom.html](https://nexperia.github.io/NEVB-MTR1-C-1/ibom.html) or locally in the `bom/` directory (`bom/ibom.html`). The iBOM provides an interactive view of component placement, reference designators, and sourcing information. The BOM is also available in CSV format at `bom/nevb_mtr1_c_1.csv`.
 
 ## Manufacturing Files
 
