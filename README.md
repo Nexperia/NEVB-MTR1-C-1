@@ -44,6 +44,7 @@ To open and edit the design:
 ## Related Repositories
 
 - **Firmware**: [NEVC-MTR1-t01](https://github.com/Nexperia/NEVC-MTR1-t01) - Trapezoidal control firmware for the evaluation kit
+- **3-Phase Inverter Board Hardware Design Files**: [NEVB-MTR1-I56-1](https://github.com/Nexperia/https://github.com/Nexperia/NEVB-MTR1-I56-1) - Design files for the 3-phase inverter board
 
 ## Safety Precautions
 
